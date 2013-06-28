@@ -4,7 +4,7 @@
 This little project shows you how create a tooltip in CSS. Currently its work in progress so there may be some buggyness :)
 
 
-http://designtoday.info/github/DT-phpAccordian/examples/
+Demo: http://cdpn.io/oCqIu
 
 ##Contact
 - Twitter: http://twitter.com/mustafa_x
